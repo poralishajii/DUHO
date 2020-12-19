@@ -60,7 +60,7 @@ def vercheck() -> str:
 
 SOURCE_STRING = """
 ⚡I'm built in python3, using the python-telegram-bot library, and am fully opensource - you can find what makes me tick [there](https://t.me/Bot_Hub1)
-⚡You Can Clone Me [Here](https://github.com/piku-adhi/DUHO)
+⚡You Can Clone Me [Here](https://github.com/poralishajii/DUHO)
 """
 
 
@@ -182,7 +182,7 @@ def send_start(bot, update):
     first_name = update.effective_user.first_name 
     text = PM_START_TEXT
 
-    keyboard = [[InlineKeyboardButton(text="OWNER",url="https://t.me/Ravanan_of_telegram"),InlineKeyboardButton(text="DEVELOPER",url="https://t.me/mtoffbotdev")]]
+    keyboard = [[InlineKeyboardButton(text="OWNER",url="https://t.me/Ravanan_of_telegram"),InlineKeyboardButton(text="DEVELOPER",url="https://t.me/Ravanan_of_telegram")]]
     keyboard += [[InlineKeyboardButton(text="BOT TESTING",url="http://t.me/allbottest"),InlineKeyboardButton(text="Movies",url="http://t.me/HoneyBeesChat")]]
     keyboard += [[InlineKeyboardButton(text="нєℓρ",callback_data="help_back"),InlineKeyboardButton(text="🔗CONNECT🔗",callback_data="main_connect")]]
                   
