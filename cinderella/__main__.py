@@ -59,7 +59,7 @@ def vercheck() -> str:
 
 
 SOURCE_STRING = """
-⚡I'm built in python3, using the python-telegram-bot library, and am fully opensource - you can find what makes me tick [there](https://t.me/Bot_Hub1)
+⚡I'm built in python3, using the python-telegram-bot library, and am fully opensource - you can find what makes me tick [there](https://github.com/poralishajii/DUHO)
 ⚡You Can Clone Me [Here](https://github.com/poralishajii/DUHO)
 """
 
